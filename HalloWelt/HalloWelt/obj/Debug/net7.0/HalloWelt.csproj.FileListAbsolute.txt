@@ -1,0 +1,15 @@
+/Users/ninaginczig/Sites/web-projects/c-Tutorial/HalloWelt/HalloWelt/bin/Debug/net7.0/HalloWelt
+/Users/ninaginczig/Sites/web-projects/c-Tutorial/HalloWelt/HalloWelt/bin/Debug/net7.0/HalloWelt.deps.json
+/Users/ninaginczig/Sites/web-projects/c-Tutorial/HalloWelt/HalloWelt/bin/Debug/net7.0/HalloWelt.runtimeconfig.json
+/Users/ninaginczig/Sites/web-projects/c-Tutorial/HalloWelt/HalloWelt/bin/Debug/net7.0/HalloWelt.dll
+/Users/ninaginczig/Sites/web-projects/c-Tutorial/HalloWelt/HalloWelt/bin/Debug/net7.0/HalloWelt.pdb
+/Users/ninaginczig/Sites/web-projects/c-Tutorial/HalloWelt/HalloWelt/obj/Debug/net7.0/HalloWelt.csproj.AssemblyReference.cache
+/Users/ninaginczig/Sites/web-projects/c-Tutorial/HalloWelt/HalloWelt/obj/Debug/net7.0/HalloWelt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ninaginczig/Sites/web-projects/c-Tutorial/HalloWelt/HalloWelt/obj/Debug/net7.0/HalloWelt.AssemblyInfoInputs.cache
+/Users/ninaginczig/Sites/web-projects/c-Tutorial/HalloWelt/HalloWelt/obj/Debug/net7.0/HalloWelt.AssemblyInfo.cs
+/Users/ninaginczig/Sites/web-projects/c-Tutorial/HalloWelt/HalloWelt/obj/Debug/net7.0/HalloWelt.csproj.CoreCompileInputs.cache
+/Users/ninaginczig/Sites/web-projects/c-Tutorial/HalloWelt/HalloWelt/obj/Debug/net7.0/HalloWelt.dll
+/Users/ninaginczig/Sites/web-projects/c-Tutorial/HalloWelt/HalloWelt/obj/Debug/net7.0/refint/HalloWelt.dll
+/Users/ninaginczig/Sites/web-projects/c-Tutorial/HalloWelt/HalloWelt/obj/Debug/net7.0/HalloWelt.pdb
+/Users/ninaginczig/Sites/web-projects/c-Tutorial/HalloWelt/HalloWelt/obj/Debug/net7.0/HalloWelt.genruntimeconfig.cache
+/Users/ninaginczig/Sites/web-projects/c-Tutorial/HalloWelt/HalloWelt/obj/Debug/net7.0/ref/HalloWelt.dll
