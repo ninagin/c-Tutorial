@@ -5,10 +5,13 @@ namespace HalloWelt
     class Programm
     {
 
-        static void Main(string[] argd)
+        static void Main(string[] args)
         {
-            Console.WriteLine(@"Hallo Herr Meier, 
-Hiermit übersende ich Ihnen die Rechnung für meine Leistungen am 01.09.2021.
+            string name = "Frau Maier";
+            string date = "01.01.2024";
+
+            Console.WriteLine("Hallo " + name + @", 
+Hiermit übersende ich Ihnen die Rechnung für meine Leistungen am " + date + @".
 Vielen Dankl, dass Die unsere Dienste genutzt haben.
 
 Mit freundlichen Grüßen
@@ -18,5 +21,3 @@ Nina Loeck");
     }
 
 }
-
-
